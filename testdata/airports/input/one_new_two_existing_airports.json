@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Hartsfield Jackson Atlanta Intl",
+        "city": "Atlanta",
+        "country": "United States",
+        "iata_code": "ATL"
+    },
+    {
+        "name": "Los Angeles Intl",
+        "city": "Los Angeles",
+        "country": "United States",
+        "iata_code": "LAX"
+    },
+    {
+        "name": "Chicago Ohare Intl",
+        "city": "Chicago",
+        "country": "United States",
+        "iata_code": "ORD"
+    }
+]
